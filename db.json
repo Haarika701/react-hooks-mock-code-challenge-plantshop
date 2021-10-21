@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Haarika Ramadugu",
+      "image": "pp",
+      "price": "44",
+      "id": 8
+    },
+    {
+      "name": "nn",
+      "image": "n",
+      "price": "60",
+      "id": 9
     }
   ]
 }
